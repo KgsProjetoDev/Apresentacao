@@ -1,0 +1,51 @@
+body {
+    background-image: url("../imagem/base20.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cabecalho {
+    text-align: center;
+    padding: 60px 0;
+}
+
+.cabecalho h1 {
+    color: aliceblue;
+    font-size: 45px;
+    letter-spacing: 5px;
+
+}
+
+.produtos-slider {
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    gap: 80px;
+}
+
+.descricao a {
+    color: aliceblue;
+    text-decoration: none;
+    transform: 0.5s;
+    list-style: none;
+    padding: 8px 12px;
+    display: inline-block;
+    border-radius: 10px;
+    background: linear-gradient(to right, #09adc8, #001f4e);
+}
+
+.texto{
+    background-color: rgba(179, 177, 185, 0.7);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    overflow-y: auto;
+}
+
+.nome{
+    background-color: rgba(179, 177, 185, 0.7);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color: rgb(58, 54, 54);
+}
+

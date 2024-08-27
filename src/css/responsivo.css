@@ -1,0 +1,9 @@
+@media(max-width:725px){
+   .produtos-slider{
+    padding: 0 15px;
+    gap: 15px;
+    display: block;
+    font-size: 25px;
+   }
+}
+
